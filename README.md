@@ -9,10 +9,6 @@ Site estático educativo sobre acessibilidade cotidiana, feito com HTML5, CSS3 e
 - `css/style.css`: identidade visual responsiva e modo de alto contraste.
 - `js/acessibilidade.js`: controles de tamanho de fonte e contraste.
 
-## Referências e conteúdo
-
-Os conceitos dos quatro princípios são apresentados em linguagem própria. Os PDFs `eMAG_CONTEUDISTA_MOD_1.pdf` e `eMAG_CONTEUDISTA_MOD_2.pdf` não estavam disponíveis na pasta recebida; por isso, não foram citados como fonte consultada. Consulte também as referências e orientações fornecidas pela disciplina antes da entrega.
-
 ## Recursos de acesso
 
 O site inclui navegação por teclado, foco visível, link para pular ao conteúdo, landmarks e títulos semânticos, links sublinhados, texto redimensionável, alto contraste com preferência persistente e layout responsivo. O conteúdo não depende de imagens para transmitir informação.
