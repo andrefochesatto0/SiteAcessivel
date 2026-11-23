@@ -2,12 +2,6 @@
 
 Site estático educativo sobre acessibilidade cotidiana, feito com HTML5, CSS3 e JavaScript puro. Não requer servidor, dependências ou processo de build.
 
-## Publicar
-
-Coloque os arquivos em um repositório e habilite GitHub Pages para a branch e pasta que contêm `index.html`, ou envie a pasta para o Netlify. Os caminhos são relativos, então funcionam também em subpastas.
-
-Para abrir localmente, abra `index.html` em um navegador. As preferências de fonte e contraste são guardadas no armazenamento local desse navegador.
-
 ## Estrutura
 
 - `index.html`: apresentação e princípios de acessibilidade.
